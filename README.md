@@ -2,5 +2,5 @@
 
 - Use CoreData
 - Add new word 
-- delet word 
+- delet the word 
 - Update the word 
